@@ -11,6 +11,13 @@
 - Python 3.10.5
 - python-telegram-bot 13.7
 
+### Как заполнить файл .env:
+```
+PRACTICUM_TOKEN = <>
+TELEGRAM_TOKEN = <>
+TELEGRAM_CHAT_ID = <>
+```
+
 ### Как запустить проект:
 
 Клонировать репозиторий и перейти в него в командной строке:
